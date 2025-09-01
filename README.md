@@ -36,4 +36,7 @@ Anika Varsha Shekar - [@AnikaShekar](https://github.com/AnikaShekar)
 │   ├── img6.jpg
 │   ├── img7.jpg
 │   ├── img8.jpg
+│── screenshots/
+│   ├── op1.png
+│   ├── op2.png
 └── README.md
