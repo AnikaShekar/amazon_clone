@@ -7,6 +7,7 @@ Anika Varsha Shekar - [@AnikaShekar](https://github.com/AnikaShekar)
 # Built with
 - HTML
 - CSS
+- Font Awesome (for icons)
 
 # Features
 - Responsive Navbar (Navigation bar with logo, delivery location, search Bar, sign-in, returns, and cart.)
