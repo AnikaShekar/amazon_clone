@@ -19,8 +19,8 @@ Anika Varsha Shekar - [@AnikaShekar](https://github.com/AnikaShekar)
 - Amazon-like Layout (Clean and simple clone of Amazon’s homepage structure.)
 
 # Screenshots
-![Header Navigation with Panel](screenshots/header-nav.png)
-![Content Section](screenshots/content.png)
+![Header Navigation with Panel](screenshots/op1.png)
+![Content Section](screenshots/op2.png)
 
 # Project Structure
 ├── index.html
